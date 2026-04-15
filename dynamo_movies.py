@@ -4,6 +4,8 @@
 # Lab 8A - Lis Oguntona
 # Version 2
 
+#This is the third alteration
+
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
